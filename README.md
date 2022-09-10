@@ -1,1 +1,1 @@
-# bash-deb
+# linux-sh-deb

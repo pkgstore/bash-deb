@@ -1,1 +1,1 @@
-# linux-sh-deb
+# Debian DEB Generator Script
